@@ -1,0 +1,33 @@
+
+div{
+
+    background-color: #5D3587;
+    color: #BED754;
+    width: 50%;
+    margin-left:25%;
+    padding-top: 30px;
+    text-align: center;
+
+}
+
+h1 {
+
+    font-family: 'Libre Baskerville', serif ;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+img {
+
+    border:10px solid pink;
+    width: 100%;
+
+}
+
+p {
+     text-align: center;
+}
+
+body{
+    background:#5D3587 ;
+}
